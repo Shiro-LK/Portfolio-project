@@ -20,6 +20,17 @@ You have the option to initiate a graphical user interface (GUI) using Gradio, f
 
 to download the weights: click [here](https://drive.google.com/file/d/1gIMidWgLr2cPzwsQMSxRXqYO3xC3q6-S/view?usp=drive_link)
 
+# Example of Visualisation 
+
+![image_proba](output/1000015157_proba.JPG)
+
+![image_heatmap](output/1000015157_heatmap.JPG)
+
+# Training 
+
+To train a simplified version of the solution, you can follow this notebook: [here](training/Convnext_Tensorflow_Leaf_Disease_detection,_Cassava.ipynb)
+
+
 
 # Citation 
 
