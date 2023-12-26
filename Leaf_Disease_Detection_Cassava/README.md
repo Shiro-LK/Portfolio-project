@@ -22,9 +22,9 @@ to download the weights: click [here](https://drive.google.com/file/d/1gIMidWgLr
 
 # Example of Visualisation 
 
-![image_proba](output/1000015157_proba.JPG)
+![image_proba](gradio_app/output/1000015157_proba.JPG)
 
-![image_heatmap](output/1000015157_heatmap.JPG)
+![image_heatmap](gradio_app/output/1000015157_heatmap.JPG)
 
 # Training 
 
