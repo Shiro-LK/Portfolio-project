@@ -11,7 +11,7 @@ from PIL import Image
 
 image_global = None
 heatmap_global = None 
-IMAGE_SIZE = (600, 600)
+IMAGE_SIZE = (600, 600) # (800, 800)
     
 label_code = {0: "Cassava Bacterial Blight (CBB)", 1:"Cassava Brown Streak Disease (CBSD)", 2:  "Cassava Green Mottle (CGM)",
                 3: "Cassava Mosaic Disease (CMD)", 4: "Healthy"}
