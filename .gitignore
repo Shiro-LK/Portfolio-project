@@ -6,7 +6,11 @@ Bear_Detection_Segmentation/runs
 Bear_Detection_Segmentation/wandb
 Bear_Detection_Segmentation/datasets
 Bear_Detection_Segmentation/detection_bear
+Bear_Detection_Segmentation/segment-anything
+
+
 # C extensions
+
 *.so
 
 # Distribution / packaging
