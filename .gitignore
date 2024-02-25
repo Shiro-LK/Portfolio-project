@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+Bear_Detection_Segmentation/segmentation_bear
 Bear_Detection_Segmentation/runs
 Bear_Detection_Segmentation/wandb
 Bear_Detection_Segmentation/datasets
