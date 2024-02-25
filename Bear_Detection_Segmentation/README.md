@@ -16,8 +16,8 @@ The different notebook are:
 
 # Examples of Detections/Segmentations
 
-![](detected/bear_0.PNG){ width: 200px; }
-![](detected/bear_1.PNG){ width: 200px; }
+![](detected/bear_0.PNG) 
+![](detected/bear_1.PNG) 
 
 
 
@@ -33,7 +33,7 @@ Then you can run the first notebook.
 
 1. clone the github repo for SAM from the facebook's github
 
-> git clone 
+> git clone https://github.com/facebookresearch/segment-anything.git
 
 2. Download the checkpoint of SAM:
 
