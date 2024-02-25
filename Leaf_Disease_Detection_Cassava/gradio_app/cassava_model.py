@@ -146,8 +146,7 @@ def create_model(
     *,
     in_channels: Optional[int] = None,
     nb_classes: Optional[int] = None,
-    **kwargs,
-) -> tf.keras.Model:
+    **kwargs,) -> tf.keras.Model:
     """
     Creates a model.
     Args:
