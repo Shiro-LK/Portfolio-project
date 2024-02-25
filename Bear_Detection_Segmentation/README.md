@@ -21,7 +21,7 @@ The different notebook are:
 
 
 
-# Dataset
+# Dataset for Detection
 
 After downloading the dataset, unzip the file into the folder 'datasets/bear'.
 
@@ -29,7 +29,7 @@ After downloading the dataset, unzip the file into the folder 'datasets/bear'.
 
 Then you can run the first notebook.
 
-# Pseudo Label with SAM
+# Pseudo Label with SAM for dataset segmentation
 
 1. clone the github repo for SAM from the facebook's github
 
