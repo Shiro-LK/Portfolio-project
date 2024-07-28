@@ -13,4 +13,4 @@ This project uses Retrieval Augmented Generation (RAG) to answer questions from 
 
 
 
-![image](https://github.com/Shiro-LK/Portfolio-project/tree/main/LLMs/1-RAG_QA/images/gradio_app.png)
+![image](images/gradio_app.png)
