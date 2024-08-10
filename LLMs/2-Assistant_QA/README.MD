@@ -23,3 +23,9 @@ If you want to use cpu, you should slightly change the code.
 uninstall tensorflow:
 
 > pip uninstall tensorflow
+
+
+
+# Example:
+
+![image_proba](images/images3.png)
