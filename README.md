@@ -16,3 +16,5 @@ This repository will present few projects i have made in the past.
 - [DOLG](https://github.com/Shiro-LK/python-DOLG) re-implementation of DOLG architecture in tensorflow. This architecture has been used for landmark recognition, as it seems to perform well for local and global features.
 
 - [folcanet](https://github.com/Shiro-LK/focalnet-tf) re-implementation of the focalnet architecture in tensorflow.
+
+- [LLMs](https://github.com/Shiro-LK/Portfolio-project/tree/main/LLMs): This projects implements differents solutions which involves LLMs, such as Q&A Assistant.
